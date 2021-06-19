@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on SEO reated topics
 - 🌱 I’m currently learning AdonisJS
 - 💬 Ask me about Django, React, Svelte and SEO
-- 📫 How to reach me: canburak@msn.com
+- 📫 How to reach me: [email](canburak@msn.com)
 - 😄 Pronouns: He
 
 
