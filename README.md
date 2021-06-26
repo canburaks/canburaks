@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AdonisJS
 - 💬 Ask me about Django, React, Svelte and SEO
 - 📫 How to reach me: [email](canburak@msn.com)
-- 😄 Pronouns: He
 
 
 <h3 align="left">Connect with me:</h3>
