@@ -6,10 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on SEO reated topics
-- 🌱 I’m currently learning SolidJS
-- 💬 Ask me about Django, React, Svelte and SEO
-- 📫 How to reach me: [email](canburak@msn.com)
+- 🔭 I like researching on SEO reated topics.
+- 🤑 I'm currently discovering Shopify development.
+- 🖼 I'm building a Shopify store that sells [art prints](https://www.opendigitalgallery.com/).
+- 🌱 I’m currently exploring NestJS and Deno.
+- 💬 Ask me about Django, React, AdonisJs, NestJS and SEO.
+- 📫 How to reach me: [email](mailto:cbsofyalioglu@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
