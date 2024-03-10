@@ -6,10 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I like researching on SEO reated topics.
-- 🤑 I'm currently discovering Shopify development.
-- 🖼 I'm building a Shopify store that sells [art prints](https://www.opendigitalgallery.com/), now.
-- 🌱 I like build things with NextJS, NestJS.
+- 🤑 I'm currently discovering Rust development.
+- 🌱 I like build things with Django, GraphQL, NextJS, NestJS.
 - 💬 Ask me about React, AdonisJs, NestJS and SEO.
 - 📫 How to reach me: [email](mailto:cbsofyalioglu@gmail.com)
 
