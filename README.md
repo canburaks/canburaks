@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🤑 I'm currently discovering Rust development.
-- 🌱 I like build things with Django, GraphQL, NextJS, NestJS.
+- 🌱 I like to build things with Django, GraphQL, NextJS, and NestJS.
 - 💬 Ask me about React, AdonisJs, NestJS and SEO.
 - 📫 How to reach me: [email](mailto:cbsofyalioglu@gmail.com)
 
