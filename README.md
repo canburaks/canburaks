@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🤑 I'm currently discovering Rust development.
+- 🤑 I'm currently learning Event-driven architecture on AWS.
 - 🌱 I like to build things with Django, GraphQL, NextJS, and NestJS.
-- 💬 Ask me about Django, React, AdonisJs, NestJS and SEO.
+- 💬 Ask me about Django, React, Serverless and AWS.
 - 📫 How to reach me: [email](mailto:cbsofyalioglu@gmail.com)
 
 
