@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 - AWS Certified Developer Associate with expertise in full-stack development using Python (Django), React, and AWS services.
 - I like to build things with Django, GraphQL, NextJS, and NestJS.
+- I am currently following and practicing the rapidly changing AI ecosystem.
 - Ask me about Django, React, Serverless and AWS.
 - How to reach me: [email](mailto:cbsofyalioglu@gmail.com)
 
